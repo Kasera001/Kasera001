@@ -1,16 +1,26 @@
 ## Hi there 👋
+Hi, I'm Kasera Stella 👋
+Data Science Student and Aspiring Data Analyst
+I’m passionate about turning raw data into meaningful insights. I enjoy cleaning, analyzing, and visualizing data to uncover patterns that support decision-making.
+Currently learning data analysis with python interested in data cleaning, visualization, and insights goal is to become a professional data analyst open to  collaboration on data projects.
+## Skilled in:
+- Python (Pandas, NumPy)
+- Data Cleaning & Analysis
+- Data Visualization
+- Excel
+  
+## Featured Projects
 
-<!--
-**Kasera001/Kasera001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## Student Performance Analysis
+- Explored factors affecting student performance
+- Cleaned and analyzed dataset using Python
+- Identified key trends and insights
 
-Here are some ideas to get you started:
+## I am Working On
+- Improving my data analysis skills
+- Building real-world projects
+- Learning visualization tools (Power BI / Tableau)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Connect With me : https://github.com/Kasera001
