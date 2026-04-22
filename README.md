@@ -15,7 +15,9 @@ Currently learning data analysis with python interested in data cleaning, visual
 - Explored factors affecting student performance
 - Cleaned and analyzed dataset using Python
 - Identified key trends and insights
-
+  
+- https://github.com/Kasera001/Explaratory-Data-Analysis
+ 
 ## I am Working On
 - Improving my data analysis skills
 - Building real-world projects
