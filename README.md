@@ -12,11 +12,12 @@ Currently learning data analysis with python interested in data cleaning, visual
 ## Featured Projects
 
  ## Ml and AI projects
-- Explored factors affecting student performance
+- Explored features and variables the work hand in hand with the machine learning path
 - Cleaned and analyzed dataset using Python
 - Identified key trends and insights
+- 
   
-- https://github.com/Kasera001/Data science projects
+- https://github.com/Kasera001/Data-Science-projects
  
 ## I am Working On
 - Improving my data analysis skills
