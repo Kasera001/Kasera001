@@ -8,6 +8,8 @@ Currently learning data analysis with python interested in data cleaning, visual
 - Data Cleaning & Analysis
 - Data Visualization
 - Excel
+- Dockers and kubernets
+- cloud computing
   
 ## Featured Projects
 
@@ -23,6 +25,7 @@ Currently learning data analysis with python interested in data cleaning, visual
 - Improving my data analysis skills
 - Building real-world projects
 - Learning visualization tools (Power BI / Tableau)
+- building and maintaining containers
 
 ---
 
