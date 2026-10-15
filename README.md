@@ -4,7 +4,7 @@
 
 I enjoy cleaning, analyzing and visualizing data to uncover patterns that support decision-making. My goal is to become a professional data analyst.
 
-## 🛠️ Skills
+##  Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
