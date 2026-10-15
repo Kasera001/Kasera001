@@ -1,32 +1,45 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi,%20I'm%20Stella&fontSize=40&desc=Data%20Science%20Student%20%7C%20Aspiring%20Data%20Analyst)
 
-Hi, I'm Kasera Stella 
-Data Science Student and Aspiring Data Analyst
-I’m passionate about turning raw data into meaningful insights. I enjoy cleaning, analyzing, and visualizing data to uncover patterns that support decision-making.
-Currently learning data analysis with python interested in data cleaning, visualization, and insights goal is to become a professional data analyst open to  collaboration on data projects.
-## Skilled in:
-- Python (Pandas, NumPy)
-- Data Cleaning & Analysis
-- Data Visualization
-- Excel
-- Dockers and kubernets
-- cloud computing
-  
-## Featured Projects
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=F75C7E&lines=Turning+raw+data+into+insights;Python+%7C+SQL+%7C+Excel;Open+to+collaboration+on+data+projects)](https://github.com/Kasera001)
 
- ## Ml and AI projects
-- Explored features and variables the work hand in hand with the machine learning path
-- Cleaned and analyzed dataset using Python
-- Identified key trends and insights
-- 
-  
-- https://github.com/Kasera001/Data-Science-projects
- 
-## I am Working On
+I enjoy cleaning, analyzing and visualizing data to uncover patterns that support decision-making. My goal is to become a professional data analyst.
+
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+##  Featured Projects
+| Project | What it covers |
+|---|---|
+| [Data Science Projects](https://github.com/Kasera001/Data-Science-projects) | EDA with pandas, matplotlib and seaborn, plus machine learning models |
+| [Exploratory Data Analysis](https://github.com/Kasera001/Explaratory-Data-Analysis) | Data exploration with insights at the end of each analysis |
+| [SQL Portfolio](https://github.com/Kasera001/SQL---PORTFOLIO) | Real-world SQL projects: database design, data modelling, advanced queries |
+| [DSA Fundamentals](https://github.com/Kasera001/-data-structures-and-algorithm-fundamentals-) | Data structures and algorithms basics |
+| [Web Application Practices](https://github.com/Kasera001/WEB-APPLICATION-PRACTISES) | HTML practice and applied theory |
+
+##  Certifications
+![Cert 1](https://img.shields.io/badge/CERTIFICATION_NAME-ISSUER-blueviolet)
+![Cert 2](https://img.shields.io/badge/CERTIFICATION_NAME-ISSUER-ff69b4)
+![Cert 3](https://img.shields.io/badge/CERTIFICATION_NAME-ISSUER-success)
+
+##  Currently Working On
 - Improving my data analysis skills
 - Building real-world projects
-- Learning visualization tools (Power BI / Tableau)
-- building and maintaining containers
+- Learning Power BI / Tableau
+- Building and maintaining containers
 
----
+##  GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=Kasera001&show_icons=true&theme=radical)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasera001&layout=compact&theme=radical)
 
-Connect With me : https://github.com/Kasera001
+![snake](https://raw.githubusercontent.com/Kasera001/Kasera001/output/github-snake.svg)
