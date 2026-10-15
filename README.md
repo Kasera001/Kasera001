@@ -1,8 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi,%20I'm%20Stella&fontSize=40&desc=Data%20Science%20Student%20%7C%20Aspiring%20Data%20Analyst)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=F75C7E&lines=Turning+raw+data+into+insights;Python+%7C+SQL+%7C+Excel;Open+to+collaboration+on+data+projects)](https://github.com/Kasera001)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&text=Hi,%20I'm%20Stella&fontSize=48&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20Machine%20Learning%20Enthusiast&descSize=20&descAlignY=58&animation=fadeIn)
 
-I enjoy cleaning, analyzing and visualizing data to uncover patterns that support decision-making. My goal is to become a professional data analyst.
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=F75C7E&center=true&width=600&lines=Building+machine+learning+models;Turning+raw+data+into+insights;Python+%7C+SQL+%7C+scikit-learn;Open+to+collaboration+on+ML+projects)](https://github.com/Kasera001)
+
+</div>
+
+<br>
+
+
+I enjoy cleaning, analyzing and visualizing data to uncover patterns that support decision-making. My goal is to become a professional data analyst.I also enjoy woring with ai and  Machine learning building preditive models
 
 ##  Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
