@@ -38,8 +38,8 @@ I enjoy cleaning, analyzing and visualizing data to uncover patterns that suppor
 
 ##  Certifications
 ![Cert 1](https://img.shields.io/badge/CERTIFICATION_NAME-ISSUER-blueviolet)#
+[![Building with LLMs](https://img.shields.io/badge/Building_with_LLMs-ISSUER-E10600?logo=openai&logoColor=white)](https://github.com/Kasera001/Kasera001/blob/main/certificates/building-with-llms.pdf)
 
-[![Building with LLMs](https://img.shields.io/badge/Building_with_LLMs-ISSUER-blueviolet?logo=openai&logoColor=white)](https://github.com/Kasera001/Kasera001/blob/main/certificates/certificate-building-with-llms.pdf)
 ![Cert 2](https://img.shields.io/badge/CERTIFICATION_NAME-ISSUER-ff69b4)
 ![Cert 3](https://img.shields.io/badge/CERTIFICATION_NAME-ISSUER-success)
 
