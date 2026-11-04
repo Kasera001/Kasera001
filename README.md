@@ -54,4 +54,4 @@ I enjoy cleaning, analyzing and visualizing data to uncover patterns that suppor
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasera001&layout=compact&theme=radical)
 
 ## F1 Contribution Circuit
-![F1-themed contribution animation](https://raw.githubusercontent.com/Kasera001/Kasera001/output/f1-contribution.svg)
+![F1-themed contribution animation](https://raw.githubusercontent.com/Kasera001/Kasera001/gh-pages/f1-contribution.svg)
