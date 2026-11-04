@@ -53,4 +53,5 @@ I enjoy cleaning, analyzing and visualizing data to uncover patterns that suppor
 ![stats](https://github-readme-stats.vercel.app/api?username=Kasera001&show_icons=true&theme=radical)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasera001&layout=compact&theme=radical)
 
-![snake](https://raw.githubusercontent.com/Kasera001/Kasera001/output/github-snake.svg)
+## F1 Contribution Circuit
+![F1-themed contribution animation](https://raw.githubusercontent.com/Kasera001/Kasera001/output/f1-contribution.svg)
